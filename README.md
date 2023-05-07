@@ -1,4 +1,4 @@
-# Static Methods Lab
+# Static Methods Lab c
 
 ## Learning Goals
 
